@@ -1,7 +1,7 @@
-﻿#Testen Sie folgende Befehle:
+﻿#Testen Sie bitte folgenden Befehl: Get-command. Wozu dient das Cmdlet?
 
 
-# Get-command zum Suchen von Befehlen
+# Get-command wird verwendet zum ...
 # Wie können Sie Befehle, die Prozesse (engl. Process) betreffen, finden?
 
 
