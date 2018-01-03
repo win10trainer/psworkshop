@@ -10,7 +10,7 @@
 
 
 
-# Suchen Sie mehrere Befehle gleichzeitig, die den Begriff ip oder address oder beide beinhalten.
+# Suchen Sie mehrere Befehle gleichzeitig, die den Begriff "ip" oder "address" oder beide beinhalten.
 
 
 
